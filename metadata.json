@@ -1,0 +1,6 @@
+{
+  "name": "码上建智能教学助手",
+  "description": "《码上建》建筑机器人编程仿真平台专家级智能教学与实训助手。提供路径规划与示教、图块化编程生成、Lua脚本诊断、工艺参数推荐及实操步骤纠错等顾问级服务。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
